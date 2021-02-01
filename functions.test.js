@@ -45,3 +45,9 @@ test("Contains user Leanne Graham", () => {
     expect(data.name).toEqual("Leanne Graham");
   });
 });
+
+test("Contains user Leanne Graham", async () => {
+  expect.assertions(1);
+  const data = await functions.fetchUser();
+  expect(data.name).toEqual("Leanne Graham");
+});

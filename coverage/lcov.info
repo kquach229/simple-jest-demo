@@ -30,8 +30,8 @@ FNDA:1,(anonymous_2)
 FNDA:1,(anonymous_3)
 FNDA:1,(anonymous_4)
 FNDA:1,(anonymous_5)
-FNDA:1,(anonymous_6)
-FNDA:1,(anonymous_7)
+FNDA:2,(anonymous_6)
+FNDA:2,(anonymous_7)
 FNDA:0,(anonymous_8)
 DA:1,1
 DA:3,1
@@ -43,8 +43,8 @@ DA:11,1
 DA:12,1
 DA:15,1
 DA:18,1
-DA:21,1
-DA:24,1
+DA:21,2
+DA:24,2
 DA:27,0
 DA:31,1
 LF:14
